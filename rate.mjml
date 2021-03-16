@@ -1,0 +1,21 @@
+<mjml>
+  <mj-include path="includes/header.mjml" />
+  <mj-body>
+    <mj-wrapper full-width padding="15px" background-color="#ffffff">
+      <mj-section css-class="sectionPb30" padding-bottom="30px">
+        <mj-column vertical-align="middle">
+          <mj-text font-size="30px" line-height="35px" mj-class="sectionHeading" align="center" padding-bottom="15px">Lorem Ipsum is simply dummy text</mj-text>
+          <mj-social align="center" mode="horizontal" vertical-align="middle">
+            <mj-social-element icon-size="80px"	padding="4px 8px" target="_blank" href="#" src="img/Frame8.svg">
+            </mj-social-element>
+            <mj-social-element icon-size="80px"	 padding="4px 8px" target="_blank" href="#" src="img/Frame10.svg">
+            </mj-social-element>
+            <mj-social-element icon-size="80px"	padding="4px 8px" target="_blank" href="#" src="img/Frame12.svg">
+            </mj-social-element>
+          </mj-social>
+        </mj-column>
+      </mj-section>
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>

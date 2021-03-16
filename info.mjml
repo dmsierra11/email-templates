@@ -1,0 +1,26 @@
+<mjml>
+  <mj-include path="includes/header.mjml" />
+  <mj-body>
+    <mj-wrapper full-width padding="15px" background-color="#E2F6EB">
+      <mj-section css-class="sectionPb30" padding-bottom="30px">
+        <mj-column vertical-align="middle">
+          <mj-text mj-class="sectionHeading" font-size="30px" line-height="35px" padding="0 0 30px 15px" align="left">Lorem Ipsum is simply dummy text ...</mj-text>
+          <mj-social padding="0 0 0 15px" align="left" font-weight="500" icon-size="30px" mode="vertical" vertical-align="top">
+            <mj-social-element vertical-align="top" align="left" padding="4px 10px 4px 0" src="img/Book.svg"> Lorem Ipsum is simply dummy </mj-social-element>
+            <mj-social-element vertical-align="top" align="left" padding="4px 10px 4px 0" src="img/Bottle_Wine_Glass.svg"> Lorem Ipsum is simply dummy </mj-social-element>
+            <mj-social-element vertical-align="top" align="left" padding="4px 10px 4px 0" src="img/Cat.svg"> Lorem Ipsum is simply dummy </mj-social-element>
+            <mj-social-element vertical-align="top" align="left" padding="4px 10px 4px 0" src="img/Coin.svg"> Lorem Ipsum is simply dummy </mj-social-element>
+          </mj-social>
+        </mj-column>
+        <mj-column vertical-align="middle">
+          <mj-image  padding="0" fluid-on-mobile="true" border-radius="10px" src="img/Finances.svg"></mj-image>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <mj-section padding="0">
+      <mj-column>
+        <mj-spacer container-background-color="#33C850" height="40px" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

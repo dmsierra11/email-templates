@@ -1,0 +1,35 @@
+<mjml>
+  <mj-include path="includes/header.mjml" />
+  <mj-body>
+    <mj-wrapper full-width padding="15px" background-color="#ffffff">
+      <mj-section padding-top="30px" padding-bottom="0">
+        <mj-column>
+          <mj-text mj-class="sectionHeading">Seaction Title</mj-text>
+      </mj-section>
+      <mj-section css-class="sectionPb30" padding-bottom="30px">
+        <mj-column css-class="mobileLeftCol" padding="0 15px 0 0">
+          <mj-image padding="10px 0" fluid-on-mobile="true" border-radius="10px" src="img/imgPlaceholder.jpg" width="270px" height="215px"></mj-image>
+          <mj-text padding="10px 0 0" font-size="16px" font-weight="700">Lorem Ipsum is simply dummy text of the printing</mj-text>
+          <mj-button mj-class="btn" align="left" text-align="left" color="#3BCA59" background-color="#ffffff" inner-padding="10px 0" padding="0" href="#">CTA Text</mj-button>
+        </mj-column>
+        <mj-column css-class="mobileRightCol" padding="0 0 0 15px">
+          <mj-image padding="10px 0" fluid-on-mobile="true" border-radius="10px" src="img/imgPlaceholder.jpg" width="270px" height="215px"></mj-image>
+          <mj-text padding="10px 0 0" font-size="16px" font-weight="700">Lorem Ipsum is simply dummy text of the printing</mj-text>
+          <mj-button mj-class="btn" align="left" text-align="left" color="#3BCA59" background-color="#ffffff" inner-padding="10px 0" padding="0" href="#">CTA Text</mj-button>
+        </mj-column>
+      </mj-section>
+      <mj-section css-class="sectionPb30" padding-bottom="30px">
+        <mj-column css-class="mobileLeftCol" padding="0 15px 0 0">
+          <mj-image padding="10px 0" fluid-on-mobile="true" border-radius="10px" src="img/imgPlaceholder.jpg" width="270px" height="215px"></mj-image>
+          <mj-text padding="10px 0 0" font-size="16px" font-weight="700">Lorem Ipsum is simply dummy text of the printing</mj-text>
+          <mj-button mj-class="btn" align="left" text-align="left" color="#3BCA59" background-color="#ffffff" inner-padding="10px 0" padding="0" href="#">CTA Text</mj-button>
+        </mj-column>
+        <mj-column css-class="mobileRightCol" padding="0 0 0 15px">
+          <mj-image padding="10px 0" fluid-on-mobile="true" border-radius="10px" src="img/imgPlaceholder.jpg" width="270px" height="215px"></mj-image>
+          <mj-text padding="10px 0 0" font-size="16px" font-weight="700">Lorem Ipsum is simply dummy text of the printing</mj-text>
+          <mj-button mj-class="btn" align="left" text-align="left" color="#3BCA59" background-color="#ffffff" inner-padding="10px 0" padding="0" href="#">CTA Text</mj-button>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>
