@@ -4,7 +4,7 @@
     <mj-wrapper full-width padding="15px" background-color="#ffffff">
       <mj-section padding-top="30px" padding-bottom="0">
         <mj-column>
-          <mj-text mj-class="sectionHeading">Seaction Title</mj-text>
+          <mj-text mj-class="sectionHeading">Section Title</mj-text>
       </mj-section>
       <mj-section css-class="sectionPb30" padding-bottom="30px">
         <mj-column css-class="mobileLeftCol" padding="0 15px 0 0">
